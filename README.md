@@ -1,4 +1,4 @@
-# NCovid-19 Tracker.
+# Covid-19 Tracker.
 My First complete project with React build with Material-UI
 
 ## Deployed by Firebase :
