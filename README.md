@@ -1,5 +1,7 @@
 # Covid-19 Tracker.
 My First complete project with React build with Material-UI
+The map is build with Leaflet
+The Graph is build with Chart.js
 
 ## Deployed by Firebase :
 https://covid-19-tracker-9fcd1.web.app/
